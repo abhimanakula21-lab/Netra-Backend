@@ -1,0 +1,30 @@
+[
+  {
+    "id": "c1",
+    "name": "Sreeshnav",
+    "relation": "Friend",
+    "phone": "+918106846276",
+    "notifyVoice": true
+  },
+  {
+    "id": "c2",
+    "name": "Priya Sharma",
+    "relation": "Daughter",
+    "phone": "+917093327736",
+    "notifyVoice": true
+  },
+  {
+    "id": "c3",
+    "name": "Abhiman",
+    "relation": "Neighbor",
+    "phone": "+919346001325",
+    "notifyVoice": true
+  },
+  {
+    "id": "c4",
+    "name": "Ward Control Room",
+    "relation": "Local authority",
+    "phone": "+9163050 12966",
+    "notifyVoice": true
+  }
+]
